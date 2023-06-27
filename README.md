@@ -8,10 +8,10 @@ The most famous competition over the kaggle . In this Repository my intention is
 
 This Notebook will show basic examples of:
 
-Data Handling
-Importing Data with Pandas
-Cleaning Data
-Exploring Data through Visualizations with Matplotlib
+Data Handling,
+Importing Data with Pandas,
+Cleaning Data,
+Exploring Data through Visualizations with Matplotlib.
 
 Data Analysis:
 
